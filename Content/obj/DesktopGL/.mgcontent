@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>d:/GrabRun/GrabAndRun/Content/Agachar.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Arana animada.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/arana.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/arena_superficie.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/arena.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Ataque.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/ataud_base.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/ataud_cerrado.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/boton jugar.png</File>
+    <File>C:/Users/Administrator/Downloads/boton opciones.png</File>
+    <File>C:/Users/Administrator/Downloads/boton salir.png</File>
+    <File>C:/Users/Administrator/Downloads/fondo del menu.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Caer.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Correr_momia.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Correr.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Dano.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/escorpion.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/fondo desierto.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/lava_superficie.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/lava.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/momia_quieta.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Moneda.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/Saltar.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/superficie de arena.png</File>
+    <File>d:/GrabRun/GrabAndRun/Content/tesoro desierto.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>boton opciones.png</File>
+    <File>boton salir.png</File>
+    <File>fondo del menu.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,25 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Administrator/Downloads/boton opciones.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/boton opciones.xnb","TextureProcessor","Texture2DContent",808,32853,2.814725
+"C:/Users/Administrator/Downloads/boton salir.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/boton salir.xnb","TextureProcessor","Texture2DContent",729,32853,0.172732
+"d:/GrabRun/GrabAndRun/Content/Agachar.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Agachar.xnb","TextureProcessor","Texture2DContent",2741,137301,2.288954
+"d:/GrabRun/GrabAndRun/Content/Arana animada.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Arana animada.xnb","TextureProcessor","Texture2DContent",4619,131157,2.1929655
+"d:/GrabRun/GrabAndRun/Content/arana.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/arana.xnb","TextureProcessor","Texture2DContent",799,16469,0.1459745
+"d:/GrabRun/GrabAndRun/Content/arena_superficie.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/arena_superficie.xnb","TextureProcessor","Texture2DContent",7768,16469,0.2926199
+"d:/GrabRun/GrabAndRun/Content/arena.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/arena.xnb","TextureProcessor","Texture2DContent",7846,16469,0.2176772
+"d:/GrabRun/GrabAndRun/Content/Ataque.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Ataque.xnb","TextureProcessor","Texture2DContent",3459,120917,0.176904
+"d:/GrabRun/GrabAndRun/Content/ataud_base.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/ataud_base.xnb","TextureProcessor","Texture2DContent",6799,20565,0.2032743
+"d:/GrabRun/GrabAndRun/Content/ataud_cerrado.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/ataud_cerrado.xnb","TextureProcessor","Texture2DContent",8251,20565,0.1738393
+"d:/GrabRun/GrabAndRun/Content/boton jugar.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/boton jugar.xnb","TextureProcessor","Texture2DContent",755,32853,0.6612513
+"d:/GrabRun/GrabAndRun/Content/Caer.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Caer.xnb","TextureProcessor","Texture2DContent",4288,141397,0.2269707
+"d:/GrabRun/GrabAndRun/Content/Correr_momia.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Correr_momia.xnb","TextureProcessor","Texture2DContent",11693,112725,0.1299073
+"d:/GrabRun/GrabAndRun/Content/Correr.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Correr.xnb","TextureProcessor","Texture2DContent",4695,112725,0.1434729
+"d:/GrabRun/GrabAndRun/Content/Dano.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Dano.xnb","TextureProcessor","Texture2DContent",2591,120917,2.2228951
+"d:/GrabRun/GrabAndRun/Content/escorpion.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/escorpion.xnb","TextureProcessor","Texture2DContent",2202,65621,0.1430894
+"d:/GrabRun/GrabAndRun/Content/fondo desierto.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/fondo desierto.xnb","TextureProcessor","Texture2DContent",6315,131157,0.1233925
+"d:/GrabRun/GrabAndRun/Content/lava_superficie.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/lava_superficie.xnb","TextureProcessor","Texture2DContent",7781,16469,0.097324
+"d:/GrabRun/GrabAndRun/Content/lava.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/lava.xnb","TextureProcessor","Texture2DContent",7916,16469,0.0984576
+"d:/GrabRun/GrabAndRun/Content/momia_quieta.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/momia_quieta.xnb","TextureProcessor","Texture2DContent",7243,14165,0.1180663
+"d:/GrabRun/GrabAndRun/Content/Moneda.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Moneda.xnb","TextureProcessor","Texture2DContent",878,40085,2.2340415
+"d:/GrabRun/GrabAndRun/Content/Saltar.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/Saltar.xnb","TextureProcessor","Texture2DContent",4424,131157,0.1622381
+"d:/GrabRun/GrabAndRun/Content/superficie de arena.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/superficie de arena.xnb","TextureProcessor","Texture2DContent",3027,40085,0.1571551
+"d:/GrabRun/GrabAndRun/Content/tesoro desierto.png","d:/GrabRun/GrabAndRun/Content/bin/DesktopGL/tesoro desierto.xnb","TextureProcessor","Texture2DContent",2296,16469,0.1639142

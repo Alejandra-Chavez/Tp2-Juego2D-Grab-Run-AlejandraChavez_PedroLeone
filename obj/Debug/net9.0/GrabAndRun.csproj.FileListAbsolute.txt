@@ -1,0 +1,62 @@
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\GrabAndRun.exe
+D:\GrabRun\GrabAndRun\bin\Debug\net9.0\GrabAndRun.deps.json
+D:\GrabRun\GrabAndRun\bin\Debug\net9.0\GrabAndRun.runtimeconfig.json
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\GrabAndRun.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\GrabAndRun.pdb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\MonoGame.Framework.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\NVorbis.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\mgcb.tool.restore
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.csproj.AssemblyReference.cache
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.GeneratedMSBuildEditorConfig.editorconfig
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.AssemblyInfoInputs.cache
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.AssemblyInfo.cs
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.csproj.CoreCompileInputs.cache
+D:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.csproj.Up2Date
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.dll
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\refint\GrabAndRun.dll
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.pdb
+D:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.genruntimeconfig.cache
+D:\GrabRun\GrabAndRun\obj\Debug\net9.0\ref\GrabAndRun.dll
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Agachar.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Arana animada.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\arana.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\arena.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\arena_superficie.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Ataque.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\ataud_base.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\ataud_cerrado.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Caer.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Correr.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Correr_momia.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Dano.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\escorpion.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\fondo del menu.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\fondo desierto.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\lava.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\lava_superficie.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\momia_quieta.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Moneda.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\Saltar.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\superficie de arena.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\tesoro desierto.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\boton jugar.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\boton opciones.xnb
+d:\GrabRun\GrabAndRun\bin\Debug\net9.0\Content\boton salir.xnb
+d:\GrabRun\GrabAndRun\obj\Debug\net9.0\GrabAndRun.sourcelink.json
